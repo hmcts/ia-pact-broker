@@ -100,12 +100,8 @@ _NOTE: this image should be modified before using in Production, in particular, 
 
 See [pact-broker-openshift](https://github.com/jaimeniswonger/pact-broker-openshift) for an example config file.
 
-# Troubleshooting
-
-See the [Troubleshooting][troubleshooting] page on the wiki.
 
 [badges]: https://github.com/pact-foundation/pact_broker/wiki/Provider-verification-badges
-[troubleshooting]: https://github.com/DiUS/pact_broker-docker/wiki/Troubleshooting
 [postgres]: https://github.com/DiUS/pact_broker-docker/blob/master/POSTGRESQL.md
 [test-script]: https://github.com/DiUS/pact_broker-docker/blob/master/script/test.sh
 [docker-compose]: https://github.com/DiUS/pact_broker-docker/blob/master/docker-compose.yml
